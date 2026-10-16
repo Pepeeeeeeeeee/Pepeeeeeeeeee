@@ -15,4 +15,4 @@ Hogeschool, Antwerp. Before that, Information and Networking Technologies at a s
 | [infrastructure_arduino_school](https://github.com/Pepeeeeeeeeee/infrastructure_arduino_school) | Bare-metal AVR C coursework (registers, timers, interrupts) |
 | [integration_CICD_school](https://github.com/Pepeeeeeeeeee/integration_CICD_school) | GitLab CI/CD pipeline, blue/green deploys to GCE (team project, my role was review & testing) |
 
-*(Pinned repos above — this list is everything else.)*
+*(Pinned repos are below — this list is everything else.)*
